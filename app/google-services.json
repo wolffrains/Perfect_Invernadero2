@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498337107489",
+    "firebase_url": "https://perfect-invernadero.firebaseio.com",
+    "project_id": "perfect-invernadero",
+    "storage_bucket": "perfect-invernadero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498337107489:android:c3ad9467336d7f3d889d60",
+        "android_client_info": {
+          "package_name": "com.example.perfectinvernadero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498337107489-6aqqquhli49tndbu4ct55nvg26jc4adc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.perfectinvernadero",
+            "certificate_hash": "8909fbc74e3754c46eaf47c9d7a6df7124bf2a2b"
+          }
+        },
+        {
+          "client_id": "498337107489-bikk7esujaccuu9qqog82ej9on4bnnl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqRTRDZ3N7MyKMSiq154PwDKVrCjGr8-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498337107489-bikk7esujaccuu9qqog82ej9on4bnnl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
